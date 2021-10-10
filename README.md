@@ -2,9 +2,7 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
-
-[picture of the solution in action, if possible]
+Basic SPFx webpart sample. It contains graph API call and can be deployed to Microsoft teams as personal tab application.
 
 ## Used SharePoint Framework Version
 
