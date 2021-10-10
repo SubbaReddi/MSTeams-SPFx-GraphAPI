@@ -1,0 +1,1 @@
+{"version":3,"file":"IGraphApiDemoProps.d.ts","sourceRoot":"","sources":["../../../../src/webparts/graphApiDemo/components/IGraphApiDemoProps.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,oBAAoB,CAAC;AAEnD,MAAM,WAAW,kBAAkB;IACjC,WAAW,EAAE,MAAM,CAAC;IACpB,WAAW,EAAE,aAAa,CAAC;CAC5B"}
