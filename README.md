@@ -1,4 +1,4 @@
-# MSTeams=SPFx-GraphAPI
+# MSTeams-SPFx-GraphAPI
 
 ## Summary
 
