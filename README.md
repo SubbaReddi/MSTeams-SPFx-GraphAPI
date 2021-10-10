@@ -1,4 +1,4 @@
-# graph-api-demo
+# MSTeams=SPFx-GraphAPI
 
 ## Summary
 
@@ -14,6 +14,7 @@ Short summary on functionality and used technologies.
 
 - [SharePoint Framework](https://aka.ms/spfx)
 - [Microsoft 365 tenant](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
+- Microsoft Teams
 
 > Get your own free development tenant by subscribing to [Microsoft 365 developer program](http://aka.ms/o365devprogram)
 
@@ -31,8 +32,7 @@ folder name | Author details (name, company, twitter alias with link)
 
 Version|Date|Comments
 -------|----|--------
-1.1|March 10, 2021|Update comment
-1.0|January 29, 2021|Initial release
+1.0|October 10, 2021|Initial release
 
 ## Disclaimer
 
@@ -46,6 +46,8 @@ Version|Date|Comments
 - Ensure that you are at the solution folder
 - in the command-line run:
   - **npm install**
+  - **gulp clean**
+  - **gulp build**
   - **gulp serve**
 
 > Include any additional steps as needed.
